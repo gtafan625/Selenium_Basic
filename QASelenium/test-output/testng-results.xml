@@ -38,12 +38,12 @@
       <![CDATA[PASS - User is logged out and Swag labs login page is displayed]]>
     </line>
   </reporter-output>
-  <suite started-at="2020-10-30T19:25:28 IST" name="Default suite" finished-at="2020-10-30T19:26:13 IST" duration-ms="45480">
+  <suite started-at="2021-03-28T07:56:17 IST" name="Default suite" finished-at="2021-03-28T07:57:01 IST" duration-ms="44011">
     <groups>
     </groups>
-    <test started-at="2020-10-30T19:25:28 IST" name="Default test" finished-at="2020-10-30T19:26:13 IST" duration-ms="45480">
+    <test started-at="2021-03-28T07:56:17 IST" name="Default test" finished-at="2021-03-28T07:57:01 IST" duration-ms="44011">
       <class name="com.appname.tests.NewTest">
-        <test-method signature="TC02()[pri:0, instance:com.appname.tests.NewTest@45b9a632]" started-at="2020-10-30T19:25:28 IST" name="TC02" finished-at="2020-10-30T19:26:13 IST" duration-ms="45414" status="PASS">
+        <test-method signature="TC02()[pri:0, instance:com.appname.tests.NewTest@2cd2a21f]" started-at="2021-03-28T07:56:17 IST" name="TC02" finished-at="2021-03-28T07:57:01 IST" duration-ms="43974" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Chrome browser opened and url 'https://www.saucedemo.com/' is entered in the browser]]>
